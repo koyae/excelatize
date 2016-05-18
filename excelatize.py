@@ -1,6 +1,6 @@
 import re
 
-def excelify(string):
+def excelatize(string):
     lines = string.split("\n")
     newlines = []
     for x in range(0,len(lines)):
